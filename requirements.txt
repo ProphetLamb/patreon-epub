@@ -1,0 +1,6 @@
+browsercookie
+bs4
+ebooklib
+requests
+selenium
+pyyaml
